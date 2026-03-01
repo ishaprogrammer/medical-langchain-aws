@@ -1,4 +1,4 @@
-# Medical Chatbot with LLM LangChain Pinecone Flask AWS
+# Medical Encyclopedia with LLM LangChain Pinecone Flask AWS
 
 # How to run?
 ### STEPS:
